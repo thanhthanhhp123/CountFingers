@@ -1,1 +1,2 @@
-# CountFingers
+# CountFinger
+# Hello Xin Chao Tat Ca Cac Con Vo Thay La Thanh Dep 
